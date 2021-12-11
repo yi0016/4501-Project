@@ -19,7 +19,7 @@ Project for Top10 and Parking
 -	If the 10025 area is higher, higher_parking_proportion variable returns True.
 -	Otherwise, higher_parking_proportion variable returns False.
 
-# Group Name - Section 001
+# CW3373 and HX2322 - Section 001
 
 # Team Member
 1. cw3373 - Mint Winyuprasitkul
